@@ -8,8 +8,9 @@ ___
 Maze is generated using recursive backtracking([Maze generating algorithms](https://en.wikipedia.org/wiki/Maze_generation_algorithm)) and than randomly erasing walls between blocks to generate non-perfect maze
 ___
 
-## how it looks![rat in maze](https://github.com/kalyani3422/Maze-Solver/assets/124017835/65c31be7-9ef1-4d52-ac0a-dbb1dad14ae3)
+## how it looks!
 
+![rat in maze](https://github.com/kalyani3422/Maze-Solver/assets/124017835/1bf39898-f34e-49cd-9413-e47dfcdbf987)
 
 
 ## Implemented So far
