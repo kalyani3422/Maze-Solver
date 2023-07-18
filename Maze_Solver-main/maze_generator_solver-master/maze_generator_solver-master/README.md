@@ -1,4 +1,4 @@
-# maze_generator_solver
+![rat in maze](https://github.com/kalyani3422/Maze-Solver/assets/124017835/948728f8-cc8f-4461-a946-cc92121cd9e8)# maze_generator_solver
 
 Generating non-perfect mazes and solving them with different algorithms (GUI)
 ___
@@ -8,8 +8,9 @@ ___
 Maze is generated using recursive backtracking([Maze generating algorithms](https://en.wikipedia.org/wiki/Maze_generation_algorithm)) and than randomly erasing walls between blocks to generate non-perfect maze
 ___
 
-## how it looks
-![elementary](https://github.com/vaishnav/maze_generator_solver/blob/master/demo/Screenshot.png)
+## how it looks![rat in maze](https://github.com/kalyani3422/Maze-Solver/assets/124017835/65c31be7-9ef1-4d52-ac0a-dbb1dad14ae3)
+
+
 
 ## Implemented So far
 1. Depth First Serach
