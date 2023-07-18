@@ -10,8 +10,6 @@ ___
 
 ## how it looks!
 
-![rat in maze](https://github.com/kalyani3422/Maze-Solver/assets/124017835/1bf39898-f34e-49cd-9413-e47dfcdbf987)
-
 
 ## Implemented So far
 1. Depth First Serach
